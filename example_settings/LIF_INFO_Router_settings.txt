@@ -1,0 +1,5 @@
+Scenario.name = LIF_INFO_Router
+Group.router = LIF_INFO_Router
+LIF_INFO_Router.nrofCopies = 1
+LIF_INFO_Router.nofinterests = 1
+LIF_INFO_Router.maxOfFriend = 1
